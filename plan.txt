@@ -3,5 +3,3 @@
 3# Add a combat system that lets you attack, rest, run, and rewards the player after battle.
 4# Add an equipment system for the player character.
 5# Add some Greek language support for each item
-
-retard
